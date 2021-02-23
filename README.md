@@ -5,7 +5,7 @@
   <li>CSS3</li>
 </ul>
 
-Página publicada: <a src="https://github.com/KarlaSolano/tributo218f44f"></a>
+Link de la página:  https://karlasolano.github.io/tributo/
 
 <br>
 <img src="tributo.jpg">
