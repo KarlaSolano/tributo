@@ -17,3 +17,9 @@ h1{
     font-size: 4rem;
     margin-bottom: 0;
 }
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
